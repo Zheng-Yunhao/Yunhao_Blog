@@ -41,6 +41,7 @@ custom_file_path:
 scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
+#test
 
 # Dark Mode
 darkmode: false
